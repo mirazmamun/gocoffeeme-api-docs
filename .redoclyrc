@@ -1,0 +1,8 @@
+
+apiTitle: gocoffeeme-api-doc
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: mirazmamun/gocoffeeme-api-docs
+oasVersion: 3.0.0
