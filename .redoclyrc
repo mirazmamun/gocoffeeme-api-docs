@@ -1,8 +1,8 @@
-specFileName: swagger.yaml
-apiTitle: gocoffeeme-api
+
+apiTitle: gocoffeeme-api-doc
 splitSpec: true
 codeSamples: true
 swaggerUI: true
 travis: true
 repo: mirazmamun/gocoffeeme-api-docs
-oasVersion: '2.0'
+oasVersion: 3.0.0

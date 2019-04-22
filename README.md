@@ -1,4 +1,4 @@
-# gocoffeeme-api OpenAPI Specification
+# gocoffeeme-api-doc OpenAPI Specification
 [![Build Status](https://travis-ci.com/mirazmamun/gocoffeeme-api-docs.svg?branch=master)](https://travis-ci.com/mirazmamun/gocoffeeme-api-docs)
 ## Steps to finish
 
